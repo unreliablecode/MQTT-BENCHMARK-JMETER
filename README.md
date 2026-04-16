@@ -22,7 +22,7 @@ Before running the script, edit the `--- Configuration ---` section at the top o
 
 ## Replace with your information
 ```python
-SERVER_IP = "100.65.123.43"  # Your target/Tailscale IP
+SERVER_IP = "your_hostname"  # Your target/Tailscale IP
 USERNAME = "your_username"
 PASSWORD = "your_password"
 ```
